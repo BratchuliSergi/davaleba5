@@ -7,7 +7,7 @@ padding-bottom: 106px;
 .logo{
 display: inline-block;
 vertical-align: middle;
-margin-right: 312px;
+margin-right: 512px;
 }
 nav{
     display: inline-block;
@@ -59,6 +59,9 @@ h1{
     text-align: center;
     margin-bottom: 35px;
 }
+article{
+    text-align: center;
+}
 .text1{
     font-family: 'PT Serif';
     font-size: 40px;
@@ -71,4 +74,21 @@ h1{
     color: #1F6519;
     text-align: center;
     padding: 92px 216px 137px 207px;
+}
+footer{
+    background-color: #1F6519;
+    margin: 0 auto;
+   
+}
+.logo1{
+    margin: 74px 617px 73px 109px;
+    
+}
+.text3{
+    font-family: 'Nerko One';
+    font-size:24px ;
+    padding-left: 109px;
+    padding-right: 118px;
+    vertical-align: middle;
+    display: inline-block;
 }
