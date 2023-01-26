@@ -59,3 +59,16 @@ h1{
     text-align: center;
     margin-bottom: 35px;
 }
+.text1{
+    font-family: 'PT Serif';
+    font-size: 40px;
+    color:#0F5009 ;
+    padding-top: 92px;
+}
+.text2{
+    font-family: 'PT Serif';
+    font-size: 36px;
+    color: #1F6519;
+    text-align: center;
+    padding: 92px 216px 137px 207px;
+}
