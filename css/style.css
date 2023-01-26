@@ -25,3 +25,37 @@ li{
 li a{
     color: #0F5009;
 }
+section{
+    background-color:#1F6519 ;
+    margin: 0 auto;
+}
+.photo1{
+  padding-top: 110px ;
+  padding-left: 69px;
+  padding-bottom: 154px;
+  display: inline-block;
+  margin-right: 96px;
+  vertical-align: middle;
+}
+div{
+    display: inline-block;
+    width: 468px;
+    padding-top: 110px;
+    padding-bottom: 154px;
+    padding-right: 61px;
+    vertical-align: middle;
+   
+}
+p{
+    font-family: 'PT Serif'; 
+    font-size: 32px;
+    color: #ffff;
+    padding-bottom: 154px;
+}
+h1{
+    font-family: 'Nerko One';
+    font-size: 36px;
+    color: #ffff;
+    text-align: center;
+    margin-bottom: 35px;
+}
